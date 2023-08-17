@@ -1,5 +1,4 @@
-# daora a vida
-
+# hi.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lant-silva&theme=nord&count_private=true&show_icons=true)
 
