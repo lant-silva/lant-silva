@@ -2,7 +2,6 @@
 
 ~ welcome to my profile ~
 
-im a system & analysis development student, atm i mainly code in java, but im also interested in learning Python, C# and Ruby
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lant-silva&theme=nord&count_private=true&show_icons=true)
 --->
