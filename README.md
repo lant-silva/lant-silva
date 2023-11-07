@@ -1,6 +1,9 @@
 # ~hi.
 
 ~ welcome to my profile ~
+<!---
+![image](https://media.tenor.com/mDXSUmFtxMgAAAAi/simon-gurren-laggan.gif)
+--->
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lant-silva&theme=nord&count_private=true&show_icons=true)
