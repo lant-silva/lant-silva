@@ -17,7 +17,7 @@
 
   ***Tools i currently use***
   ```
-  VS Code, DBeaver, Terminal Git
+  VS Code, Intellij IDEA, DBeaver, Terminal Git
   ```
 
   (also a proud arch linux user)
