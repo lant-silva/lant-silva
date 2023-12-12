@@ -20,7 +20,6 @@
   VS Code, Intellij IDEA, DBeaver, Terminal Git
   ```
 
-  (also a proud arch linux user)
 
   i hope you like my projects, most of them are really small, or made for fun
 
