@@ -12,7 +12,7 @@
 
   ***Programming languages i currently know (or currently learning)***
   ```
-  Java, C, C#, Python, T-SQL, AutoHotkey
+  Java, C, C#, Python, T-SQL, GDScript (godot)
   ```
 
   ***Tools i currently use***
