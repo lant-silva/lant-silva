@@ -20,6 +20,17 @@
   VS Code, Intellij IDEA, DBeaver, Terminal Git
   ```
 
+  ***Current plans***
+  ```
+  so basically, i have two things in mind (excluding the main ones obviously)
+
+  first, i need to improve my front-end programming, i suck at developing
+  webpages and such :/
+
+  second, i really want to start making my own games, so im learning
+  how to use godot, a FOSS game engine and a great alternative
+  to unity (my first game will probably be a recreation of a sonic game :D)
+  ```
 
   i hope you like my projects, most of them are really small, or made for fun
 
