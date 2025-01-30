@@ -4,11 +4,11 @@
 
   
   
-  ### welcome to my github page
+  ### Welcome to my GitHub profile
 
-  i'm currently a student in FATEC (São Paulo's University of Tecnology) coursing System Analysis and Development, hoping to graduate in 2024
+  Java developer, currently learning game design to elevate my skills, and possibly creating my first game
 
-  i like music, art, really like creating my own drawings and playing my favorite video-games
+  I like music, art, really like creating my own drawings and playing my favorite video-games
 
   ***Programming languages i currently know (or currently learning)***
   ```
@@ -17,7 +17,7 @@
 
   ***Tools i currently use***
   ```
-  VS Code, Intellij IDEA, DBeaver, Terminal Git
+  VS Code, Eclipse IDE, DBeaver, Git
   ```
 
   ***Current plans***
