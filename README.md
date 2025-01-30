@@ -6,7 +6,7 @@
   
   ### Welcome to my GitHub profile
 
-  Java developer, currently learning game design to elevate my skills, and possibly creating my first game
+  Java developer, currently learning game design to elevate my skills, and possibly to create my first game (maybe even publicizing it on itch.io)
 
   I like music, art, really like creating my own drawings and playing my favorite video-games
 
