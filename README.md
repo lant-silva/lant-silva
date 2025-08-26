@@ -5,7 +5,7 @@
   
   
   ### Welcome to my GitHub profile
-
+<!--
   Java developer, currently learning game design to elevate my skills, and possibly to create my first game (maybe even publicizing it on itch.io)
 
   I like music, art, really like creating my own drawings and playing my favorite video-games
@@ -35,7 +35,7 @@
   i hope you like my projects, most of them are really small, or made for fun
 
   
-  
+  --->
 </div>
 
 <div  align="center" style="margin-bottom:100px">
